@@ -33,7 +33,7 @@ Single interactive page featuring:
 
 ## Dashboard preview
 
-![Dashboard screenshot](Nig_crop_output.png)
+![Dashboard screenshot](dashboard-screenshot.png)
 
 ## Files in this repo
 - `nigeria-agri-output-dashboard.pbix` — Power BI dashboard file
